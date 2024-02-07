@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Presentations"
-permalink: /presentations/
+permalink: /addsomethingsopeoplecanfindthepagebyjustsuffixingbaseurlwithpresentations/
 author_profile: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Grants"
-permalink: /grants/
+permalink: /addsomethingsopeoplecanfindthepagebyjustsuffixingbaseurlwithgrants/
 author_profile: true
 ---
 

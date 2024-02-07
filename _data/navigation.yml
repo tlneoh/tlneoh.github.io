@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=5CoOZzAAAAAJ&hl=en
+  #- title: "Publications"
+  #url: https://scholar.google.com/citations?user=5CoOZzAAAAAJ&hl=en
   #url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/
+  #- title: "Presentations"
+  #url: /presentations/
 
   #- title: "Talks"
   #url: /talks/
@@ -22,8 +22,8 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Grants"
-    url: /grants/
+  #- title: "Grants"
+  #url: /grants/
 
   - title: "Portfolio"
     url: /portfolio/
